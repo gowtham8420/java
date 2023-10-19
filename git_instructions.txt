@@ -11,7 +11,7 @@ git push.
 git log ->to check the logs.
 git status ->to check the status.
 git init ->initializing the git.
-git diff (filename.extension)->to chect the current file status.
+git diff (filename.extension)->to chect the changes of the current file.
 
 
 
