@@ -1,0 +1,10 @@
+git commands: 
+
+Star->git bash->open.
+ ls->list all tha diractory.
+create a repository on the githup.
+git clone (repository URL).
+cd-> repository name.
+git add ./("filename).
+git commit -m "message".
+git push.
